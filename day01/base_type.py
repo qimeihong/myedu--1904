@@ -197,14 +197,15 @@ if __name__ == '__main__':
     # int_demo
     # aa()
     # qww()
-    ggg()
-
-    h = 'asdfghjpoiopi'
-    print(h[4:])
-    print(h[0])
-    print(h[1:3])
-    print(h[-1])
+    # ggg()
+    #
+    # h = 'asdfghjpoiopi'
+    # print(h[4:])
+    # print(h[0])
+    # print(h[1:3])
+    # print(h[-1])
     fg = 'poiuytre'
     print(fg[5:])
     print(fg[0])
-    print(fg[])
+    print(fg[2:5])
+
